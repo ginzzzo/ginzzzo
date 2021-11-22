@@ -1,6 +1,6 @@
 - 👋 Hi, me llamo Ezequiel Fredes
 - 👀 Me interesa la programación y el área de Sistemas en general.
-- 🌱 Actualmente estoy aprendiendo Java,MySQL y el verano siguiente pretendo estudiar Visual C++.
+- 🌱 Actualmente estoy aprendiendo Java, MySQL y el verano siguiente pretendo estudiar Visual C++.
 - 📫 Mi contacto: ezequielfredes@hotmail.com 
 
 <!---
